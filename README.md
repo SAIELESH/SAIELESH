@@ -9,7 +9,7 @@ AI Engineer with 3+ years of experience architecting end-to-end Generative AI pl
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| [**CineSync OS**](https://github.com/SAIELESH/cinesync-os-showcase-) | `Claude 3.5 Sonnet` · `Wan2.2 Diffusion` · `FastAPI` · `Next.js 15` · `React 19` · `TypeScript` | **AI Director Operating System** that turns screenplays into multi-shot scene coverage. Features client-side BYOK key management, lens focal control (24mm–85mm), and character consistency locks. <br>?? [Live Demo](https://cinesync-os.vercel.app/) |
+| [**CineSync OS**](https://github.com/SAIELESH/cinesync-os-showcase-) | `Claude 3.5 Sonnet` · `Wan2.2 Diffusion` · `FastAPI` · `Next.js 15` · `React 19` · `TypeScript` | **AI Director Operating System** that turns screenplays into multi-shot scene coverage. Features client-side BYOK key management, lens focal control (24mm–85mm), and character consistency locks. <br> [Live Demo](https://cinesync-os.vercel.app/) |
 | [**Crop Yield Deep Learning Framework**](https://github.com/SAIELESH/Crop-yield-prediction-using-ensemble-methods) | `Python` · `PyTorch` · `CNN-RNN Hybrid` · `LightGBM` · `Weighted Ensembles` | **Deep Learning & Ensemble Modeling Architecture** designed for multi-variable agricultural yield prediction. Implemented hybrid temporal-spatial neural networks and custom loss weighting. |
 
 ---
